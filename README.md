@@ -180,5 +180,5 @@ Possible enhancements include:
 
 ## Author:
 
-Ransford Djabang
+Ransford Djabang,
 Data Analytics Portfolio Project
